@@ -22,7 +22,7 @@
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <strong>🚀 GitHub Contribution Snake 🐍</strong>
+  <strong>🚀 GitHub Animation 🐍</strong>
 </p>
 
 -------------------------------------------------------------------------------------
