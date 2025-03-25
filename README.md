@@ -1,16 +1,3 @@
-<p align="center">
-  <svg width="300" height="50">
-    <text x="50%" y="50%" font-size="24" fill="blue" text-anchor="middle">
-      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      Hey 👋 What's up?  
-      I am Timur Anvarov, a developer specializing in Python, Django, and Telegram bots.
-    </text>
-  </svg>
-</p>
-
-
-
-
 - Hey 👋 What's up?
 - I am Timur Anvarov, a developer specializing in Python, Django, and Telegram bots.
   
