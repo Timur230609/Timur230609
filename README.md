@@ -25,70 +25,10 @@
 <p align="center">
   <strong>🚀 GitHub Contribution Snake 🐍</strong>
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wavy Animation</title>
-    <style>
-        body {
-            background-color: #111;
-            margin: 0;
-            overflow: hidden;
-        }
-        .wave-container {
-            position: relative;
-            width: 100%;
-            height: 200px;
-        }
-        .wave {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-        }
-        .wave svg {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-        }
-        .wave path {
-            animation: waveMove 4s infinite linear;
-        }
+## 🌊 Wavy Animation
+![Wave Animation]([https://github.com/username/repository-name/blob/main/wave-animation.gif](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg
+))
 
-        @keyframes waveMove {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-100%); }
-        }
-    </style>
-</head>
-<body>
-
-    <div class="wave-container">
-        <!-- Pastki to‘lqin -->
-        <div class="wave">
-            <svg viewBox="0 0 1200 200">
-                <path fill="#B48C54" d="M0,100 C300,200 900,0 1200,100 V200 H0 Z"></path>
-            </svg>
-        </div>
-
-        <!-- O‘rta to‘lqin -->
-        <div class="wave">
-            <svg viewBox="0 0 1200 200">
-                <path fill="#8A9A20" d="M0,120 C300,50 900,180 1200,120 V200 H0 Z"></path>
-            </svg>
-        </div>
-
-        <!-- Yuqori to‘lqin -->
-        <div class="wave">
-            <svg viewBox="0 0 1200 200">
-                <path fill="#7D00FF" d="M0,140 C300,80 900,220 1200,140 V200 H0 Z"></path>
-            </svg>
-        </div>
-    </div>
-
-</body>
-</html>
 
 - <!--🤝 I’m looking to collaborate on -->
 <!---
