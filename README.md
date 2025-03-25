@@ -1,4 +1,3 @@
-------------------------------------------------------------------------------------
 - Hey 👋 What's up?
 - I am Timur Anvarov, a developer specializing in Python, Django, and Telegram bots.
   
