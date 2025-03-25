@@ -27,6 +27,7 @@
 </p>
 🌊 Wavy Animation
 ![Wave Animation](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Wave Animation" width="100%">
 
 - <!--🤝 I’m looking to collaborate on -->
 <!---
