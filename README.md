@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning telegram bot
 -🎮 I'm also interested in playing video games.
 - <!--🤝 I’m looking to collaborate on -->
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Timur-063&theme=github)
 
 <!---
 Timur230609/Timur230609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
