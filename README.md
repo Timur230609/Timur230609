@@ -30,7 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Wave Animation" width="100%">
 
-- <!--🤝 I’m looking to collaborate on -->
+ <!--🤝 I’m looking to collaborate on -->
 <!---
 Timur230609/Timur230609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
