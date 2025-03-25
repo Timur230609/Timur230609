@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning telegram bot
 -🎮 I'm also interested in playing video games.
 - <!--🤝 I’m looking to collaborate on -->
-
 <!---
 Timur230609/Timur230609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
