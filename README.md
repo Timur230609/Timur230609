@@ -25,7 +25,7 @@
 <p align="center">
   <strong>🚀 GitHub Contribution Snake 🐍</strong>
 </p>
-## 🌊 Wavy Animation
+🌊 Wavy Animation
 ![Wave Animation](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 - <!--🤝 I’m looking to collaborate on -->
