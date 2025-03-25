@@ -9,7 +9,11 @@
 -🎮 I'm also interested in playing video games.
 
 ------------------------------------------------------------------------------------
-python logo  django logo  canva logo  fastapi logo  vscode logo
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Envato](https://img.shields.io/badge/Envato-82B541?style=for-the-badge&logo=envato&logoColor=white)
+![Robocontest](https://img.shields.io/badge/Robocontest-004080?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ------------------------------------------------------------------------------------
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
