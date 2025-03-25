@@ -9,7 +9,12 @@
 -🎮 I'm also interested in playing video games.
 
 ------------------------------------------------------------------------------------
-![Python(http://camo.githubusercontent.com/967fcae13b3922eb5e13d0b98ab391095ffd0bec86ea6904cf4ce5d9b8fdc670/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667)
+<img src="https://camo.githubusercontent.com/967fcae13b3922eb5e13d0b98ab391095ffd0bec86ea6904cf4ce5d9b8fdc670/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" width="50"/>
+<img src="https://your_image_url.com/django.png" width="50"/>
+<img src="https://your_image_url.com/canva.png" width="50"/>
+<img src="https://your_image_url.com/vercel.png" width="50"/>
+<img src="https://your_image_url.com/vscode.png" width="50"/>
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Envato](https://img.shields.io/badge/Envato-82B541?style=for-the-badge&logo=envato&logoColor=white)
