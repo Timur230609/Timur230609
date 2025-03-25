@@ -14,12 +14,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Envato](https://img.shields.io/badge/Envato-82B541?style=for-the-badge&logo=envato&logoColor=white)
-<img src="https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fi0.wp.com%2Fjunilearning.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fpython-programming-language.webp%3Ffit%3D800%252C800%26ssl%3D1&imgrefurl=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&docid=qRxpxiqPRXCuJM&tbnid=SudYOdgzGhXR-M&vet=12ahUKEwjppYu15qSMAxXFgSoKHSVUJ50QM3oECFQQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjppYu15qSMAxXFgSoKHSVUJ50QM3oECFQQAA" width="50"/>
-<img src="https://your_image_url.com/django.png" width="50"/>
-<img src="https://your_image_url.com/canva.png" width="50"/>
-<img src="https://your_image_url.com/vercel.png" width="50"/>
-<img src="https://your_image_url.com/vscode.png" width="50"/>
-
 
 ------------------------------------------------------------------------------------
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
