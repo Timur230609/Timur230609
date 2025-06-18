@@ -40,9 +40,6 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/boborahim-rustamqulov-a1a1652b0/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="You Tube" />
-  </a>
   <a href="mailto:timurcls063@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -51,9 +48,7 @@
   </a>
 </p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Timur-u2x)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iAmTimur_009)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timurcls063l@gmail.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Timur-u2x)
  <!--🤝 I’m looking to collaborate on -->
 <!---
 Timur230609/Timur230609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
