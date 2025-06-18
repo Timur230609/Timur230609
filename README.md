@@ -15,20 +15,23 @@
 -🎮 I'm also interested in playing video games.
 
 ------------------------------------------------------------------------------------
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django" width="40" height="40" />&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/128/10329/10329422.png" alt="API" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="30" height="30" />&nbsp;
+</div>
 ------------------------------------------------------------------------------------
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Timur-u2x)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iAmTimur_009)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timurcls063l@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timur230609)
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <strong>🚀 GitHub Animation 🐍</strong>
+  <strong>🚀 GitHub Animation 🐍</strong>  
 </p>
 
 -------------------------------------------------------------------------------------
