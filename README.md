@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+observers👋;This+is+AnvarovTim👨‍💻&center=true&size=30">
+  </a>
+</h1>
+
+
 - Hey 👋 What's up?
 - I am Timur Anvarov, a developer specializing in Python, Django, and Telegram bots.
   
