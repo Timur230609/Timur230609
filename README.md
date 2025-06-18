@@ -48,7 +48,7 @@
   </a>
 </p>
 
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Timur-u2x)
+  <!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Timur-u2x)-->
  <!--🤝 I’m looking to collaborate on -->
 <!---
 Timur230609/Timur230609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
